@@ -1,0 +1,18 @@
+{
+  "test_accuracy": 0.8718,
+  "test_auc": 0.8709,
+  "confusion_matrix": [
+    [
+      29,
+      13
+    ],
+    [
+      7,
+      107
+    ]
+  ],
+  "majority_baseline": 0.7308,
+  "epochs": 40,
+  "best_val_acc": 0.8718,
+  "train_seconds": 65.7
+}

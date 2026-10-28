@@ -1,0 +1,1 @@
+{"architectures":["SonoCNN"],"dropout":0.3,"id2label":{"0":"benign","1":"malignant"},"image_size":28,"in_ch":1,"label2id":{"benign":0,"malignant":1},"model_type":"sonocnn","num_classes":2,"num_parameters":287330,"torch_dtype":"float32","train_mean":0.32758,"train_std":0.20573}

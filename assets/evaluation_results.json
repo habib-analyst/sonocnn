@@ -1,0 +1,27 @@
+{
+  "n_test": 156,
+  "test_counts_benign_malignant": [
+    42,
+    114
+  ],
+  "train_mean": 0.32758,
+  "train_std": 0.20573,
+  "test_accuracy": 0.8718,
+  "test_auc": 0.8709,
+  "confusion_matrix": [
+    [
+      29,
+      13
+    ],
+    [
+      7,
+      107
+    ]
+  ],
+  "benign_recall_specificity": 0.6905,
+  "malignant_recall_sensitivity": 0.9386,
+  "benign_precision": 0.8056,
+  "malignant_precision": 0.8917,
+  "balanced_accuracy": 0.8145,
+  "majority_baseline": 0.7308
+}
